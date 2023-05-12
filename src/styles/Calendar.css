@@ -1,0 +1,35 @@
+.demo {
+  background-color: red !important ;
+}
+.rbc-btn-group {
+  display: none;
+}
+.modal-body {
+  padding: 0 !important;
+}
+.rbc-toolbar-label {
+  background-color: #270640 !important;
+  padding: 10px !important;
+  color: #fff !important;
+}
+.rbc-month-view {
+  /* padding: 0 20px 0 20px; */
+}
+.modal-header {
+  padding: 8px !important;
+}
+.rbc-toolbar {
+  margin-bottom: 0;
+}
+.rbc-button-link {
+  /* color: #fff; */
+}
+.rbc-event {
+  background: #270640;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.rbc-header {
+  padding: 5px;
+}
